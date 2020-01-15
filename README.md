@@ -1,9 +1,10 @@
 #UAS ALPRO
-'''sh
+```sh
 nama   : eka putri
 NIM    : 311910519
 kelas  : TI.19.A.3
-'''  pseudocode
+```
+pseudocode
 var i,j: integer
 begin
 
